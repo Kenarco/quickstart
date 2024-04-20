@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 19 Apr 2024 19:09:03 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Two Party System in the USA</title>
+      <link>http://localhost:1313/posts/the-two-party-system-in-the-usa/</link>
+      <pubDate>Fri, 19 Apr 2024 19:09:03 +0800</pubDate>
+      <guid>http://localhost:1313/posts/the-two-party-system-in-the-usa/</guid>
+      <description>The two party System in the USA Two major political parties have long dominated politics in the United States. And since the mid-1800s, those two main parties have been the Democrats and Republicans. Why do American voters generally face fewer choices at the ballot box? In fact, the nation became entrenched in a two-party system shortly after its founding.&#xA;Here&amp;rsquo;s how fundamental disagreements over the role of the federal government and a winner-takes-all system drove American politics towards a two-party system.</description>
+    </item>
+  </channel>
+</rss>
